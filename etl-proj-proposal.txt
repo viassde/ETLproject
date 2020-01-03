@@ -28,7 +28,7 @@ Transform:
 		Number of Fatalities
 	Weather:
 		City Code
-		Date/Hour
+		Datetime
 		Weather Description (fog/mist/haze, rain/thunderstorm, snow, no precipitation)
 			-parse description into one of the above 4 cats.
 		Temperature	
