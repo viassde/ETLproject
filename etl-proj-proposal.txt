@@ -24,13 +24,10 @@ Transform:
 	Fatalities:
 		City Code
 		Atmospheric Conditions 1-3
-		Year
-		Month
-		Day
-		Hour
+		Datetime
 		Number of Fatalities
 	Weather:
-		City Name
+		City Code
 		Date/Hour
 		Weather Description (fog/mist/haze, rain/thunderstorm, snow, no precipitation)
 			-parse description into one of the above 4 cats.
