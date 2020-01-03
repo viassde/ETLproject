@@ -24,7 +24,9 @@ Transform:
 	Fatalities:
 		City Code
 		Atmospheric Conditions 1-3
-		Date
+		Year
+		Month
+		Day
 		Hour
 		Number of Fatalities
 	Weather:
