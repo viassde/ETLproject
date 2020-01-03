@@ -1,27 +1,27 @@
-,City Code,City,State
-0,370,PHOENIX,Arizona
-1,1980,LOS ANGELES,California
-2,3260,SAN DIEGO,California
-3,3290,SAN FRANCISCO,California
-4,600,DENVER,Colorado
-5,1510,JACKSONVILLE,Florida
-6,2010,MIAMI,Florida
-7,280,ATLANTA,Georgia
-8,1670,CHICAGO,Illinois
-9,2210,INDIANAPOLIS,Indiana
-10,120,BOSTON,Massachusetts
-11,1260,DETROIT,Michigan
-12,4760,MINNEAPOLIS,Minnesota
-14,7080,SAINT LOUIS,Missouri
-15,120,LAS VEGAS,Nevada
-16,30,ALBUQUERQUE,New Mexico
-17,4170,NEW YORK,New York
-18,870,CHARLOTTE,North Carolina
-19,1650,PORTLAND,Oregon
-20,6540,PHILADELPHIA,Pennsylvania
-21,6600,PITTSBURGH,Pennsylvania
-22,1760,NASHVILLE,Tennessee
-23,1730,DALLAS,Texas
-24,3280,HOUSTON,Texas
-25,6090,SAN ANTONIO,Texas
-26,1960,SEATTLE,Washington
+City Code,City,State
+370,Phoenix,Arizona
+1980,Los Angeles,California
+3260,San Diego,California
+3290,San Francisco,California
+600,Denver,Colorado
+1510,Jacksonville,Florida
+2010,Miami,Florida
+280,Atlanta,Georgia
+1670,Chicago,Illinois
+2210,Indianapolis,Indiana
+120,Boston,Massachusetts
+1260,Detroit,Michigan
+4760,Minneapolis,Minnesota
+7080,Saint Louis,Missouri
+120,Las Vegas,Nevada
+30,Albuquerque,New Mexico
+4170,New York,New York
+870,Charlotte,North Carolina
+1650,Portland,Oregon
+6540,Philadelphia,Pennsylvania
+6600,Pittsburgh,Pennsylvania
+1760,Nashville,Tennessee
+1730,Dallas,Texas
+3280,Houston,Texas
+6090,San Antonio,Texas
+1960,Seattle,Washington
