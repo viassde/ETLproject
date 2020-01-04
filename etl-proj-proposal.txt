@@ -22,12 +22,13 @@ Extract:
 Transform:
 
 	Fatalities:
-		City Code
+		id - 	PRIMARY KEY
+		City Code - FOREIGN KEY references location.city_code
 		Atmospheric Conditions 1-3
 		Datetime
 		Number of Fatalities
 	Weather:
-		City Code
+		City Code - FOREIGN KEY references location.city_code
 		Datetime
 		Weather Description (fog/mist/haze, rain/thunderstorm, snow, no precipitation)
 			-parse description into one of the above 4 cats.
@@ -35,11 +36,13 @@ Transform:
 		Humidity
 		Pressure
 		Wind Speed
+		
+		COMPOSITE primary key city_code + datetime
 
 	Location:
 		State
 		City Name
-		City Code
+		City Code -PRIMARY KEY
 	
 	Task Division:
 		T: Weather
