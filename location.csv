@@ -1,4 +1,4 @@
-City Code,City,State
+city_code,city,state
 370,Phoenix,Arizona
 1980,Los Angeles,California
 3260,San Diego,California
@@ -13,7 +13,7 @@ City Code,City,State
 1260,Detroit,Michigan
 4760,Minneapolis,Minnesota
 7080,Saint Louis,Missouri
-120,Las Vegas,Nevada
+121,Las Vegas,Nevada
 30,Albuquerque,New Mexico
 4170,New York,New York
 870,Charlotte,North Carolina
